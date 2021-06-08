@@ -1,0 +1,36 @@
+Graphics :;
+Mali 450 Penta Core;
+Mali 450 Dual Core;
+Mali 450 Quad Core;
+Mali 450 Octa Core;
+Mali 450 Penta Core;
+|
+Resolution Supports :;
+Upto 1080p;
+Upto 2k;
+Upto 8k;
+Upto 4k;
+Upto 4k;
+|
+RAM:;
+2GB;
+3GB;
+4GB;
+6GB;
+2GB;
+|
+ROM :;
+16GB;
+32GB;
+64GB;
+128GB;
+16GB;
+|
+Processor :;
+Amlogic S905X Quad Core;
+Amlogic S905X Octa Core;
+Amlogic S905X Dual Core;
+Snapdragon 888;
+Amlogic S905X Quad Core;
+|
+
